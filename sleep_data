@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2025-11-01",
+    "bedTime": "23:15",
+    "wakeTime": "07:45",
+    "sleepHours": 8.5,
+    "sleepScore": 4,
+    "mood": 3,
+    "stress": 2,
+    "memo": "주말이라 늦게 자고 늦게 일어남"
+  },
+  {
+    "date": "2025-11-02",
+    "bedTime": "00:30",
+    "wakeTime": "07:00",
+    "sleepHours": 6.5,
+    "sleepScore": 3,
+    "mood": 3,
+    "stress": 3,
+    "memo": "잠들기 전 휴대폰 사용"
+  },
+  {
+    "date": "2025-11-04",
+    "bedTime": "22:50",
+    "wakeTime": "06:20",
+    "sleepHours": 7.5,
+    "sleepScore": 5,
+    "mood": 4,
+    "stress": 1,
+    "memo": "운동 후 피곤해서 깊이 잠"
+  },
+  {
+    "date": "2025-11-05",
+    "bedTime": "01:10",
+    "wakeTime": "07:10",
+    "sleepHours": 6.0,
+    "sleepScore": 2,
+    "mood": 2,
+    "stress": 4,
+    "memo": "과제 때문에 늦게 잠"
+  },
+  {
+    "date": "2025-11-07",
+    "bedTime": "23:30",
+    "wakeTime": "06:00",
+    "sleepHours": 6.5,
+    "sleepScore": 3,
+    "mood": 3,
+    "stress": 3,
+    "memo": "카페인 섭취"
+  },
+  {
+    "date": "2025-11-08",
+    "bedTime": "22:00",
+    "wakeTime": "07:30",
+    "sleepHours": 9.5,
+    "sleepScore": 5,
+    "mood": 5,
+    "stress": 1,
+    "memo": "아주 잘 잠"
+  },
+  {
+    "date": "2025-11-10",
+    "bedTime": "00:00",
+    "wakeTime": "06:30",
+    "sleepHours": 6.5,
+    "sleepScore": 3,
+    "mood": 3,
+    "stress": 2,
+    "memo": "평범한 하루"
+  },
+  {
+    "date": "2025-11-11",
+    "bedTime": "01:30",
+    "wakeTime": "08:00",
+    "sleepHours": 6.5,
+    "sleepScore": 2,
+    "mood": 2,
+    "stress": 4,
+    "memo": "시험 공부로 인한 수면 부족"
+  },
+  {
+    "date": "2025-11-13",
+    "bedTime": "23:00",
+    "wakeTime": "07:00",
+    "sleepHours": 8.0,
+    "sleepScore": 4,
+    "mood": 4,
+    "stress": 2,
+    "memo": "평범한 하루"
+  },
+  {
+    "date": "2025-11-14",
+    "bedTime": "23:20",
+    "wakeTime": "06:50",
+    "sleepHours": 7.5,
+    "sleepScore": 4,
+    "mood": 3,
+    "stress": 2,
+    "memo": "살짝 피곤하지만 괜찮음"
+  }
+]
