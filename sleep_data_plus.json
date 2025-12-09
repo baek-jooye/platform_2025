@@ -1,0 +1,152 @@
+[
+  {
+    "date": "2025-11-01",
+    "bedTime": "23:20",
+    "wakeTime": "07:40",
+    "sleepHours": 8.3,
+    "sleepScore": 4,
+    "mood": 3,
+    "stress": 2,
+    "memo": "주말이라 넉넉히 잠"
+  },
+  {
+    "date": "2025-11-03",
+    "bedTime": "00:10",
+    "wakeTime": "06:50",
+    "sleepHours": 6.7,
+    "sleepScore": 3,
+    "mood": 3,
+    "stress": 3,
+    "memo": "늦게 잠들었지만 무난하게 잠"
+  },
+  {
+    "date": "2025-11-05",
+    "bedTime": "01:00",
+    "wakeTime": "07:00",
+    "sleepHours": 6.0,
+    "sleepScore": 2,
+    "mood": 2,
+    "stress": 4,
+    "memo": "과제 때문에 늦게 잠"
+  },
+  {
+    "date": "2025-11-07",
+    "bedTime": "22:30",
+    "wakeTime": "06:40",
+    "sleepHours": 8.2,
+    "sleepScore": 4,
+    "mood": 4,
+    "stress": 1,
+    "memo": "컨디션 좋은 날"
+  },
+  {
+    "date": "2025-11-09",
+    "bedTime": "23:50",
+    "wakeTime": "06:30",
+    "sleepHours": 6.7,
+    "sleepScore": 3,
+    "mood": 3,
+    "stress": 2,
+    "memo": "평범한 하루"
+  },
+  {
+    "date": "2025-11-11",
+    "bedTime": "01:30",
+    "wakeTime": "08:00",
+    "sleepHours": 6.5,
+    "sleepScore": 2,
+    "mood": 2,
+    "stress": 4,
+    "memo": "시험 공부로 인해 수면 부족"
+  },
+  {
+    "date": "2025-11-13",
+    "bedTime": "23:10",
+    "wakeTime": "07:00",
+    "sleepHours": 7.8,
+    "sleepScore": 4,
+    "mood": 4,
+    "stress": 2,
+    "memo": "얼마나 잔 듯"
+  },
+  {
+    "date": "2025-11-16",
+    "bedTime": "00:40",
+    "wakeTime": "07:50",
+    "sleepHours": 7.2,
+    "sleepScore": 4,
+    "mood": 4,
+    "stress": 2,
+    "memo": "주말이라 여유 있게 잠"
+  },
+  {
+    "date": "2025-11-18",
+    "bedTime": "22:20",
+    "wakeTime": "06:10",
+    "sleepHours": 7.8,
+    "sleepScore": 5,
+    "mood": 5,
+    "stress": 1,
+    "memo": "컨디션 최고"
+  },
+  {
+    "date": "2025-11-21",
+    "bedTime": "00:05",
+    "wakeTime": "06:25",
+    "sleepHours": 6.3,
+    "sleepScore": 3,
+    "mood": 3,
+    "stress": 3,
+    "memo": "알람 두 번이나 미룸"
+  },
+  {
+    "date": "2025-11-23",
+    "bedTime": "23:40",
+    "wakeTime": "07:30",
+    "sleepHours": 7.8,
+    "sleepScore": 4,
+    "mood": 4,
+    "stress": 2,
+    "memo": "평온한 하루"
+  },
+  {
+    "date": "2025-11-26",
+    "bedTime": "01:00",
+    "wakeTime": "07:10",
+    "sleepHours": 6.2,
+    "sleepScore": 2,
+    "mood": 2,
+    "stress": 4,
+    "memo": "스트레스 때문에 잠이 뒤척임"
+  },
+  {
+    "date": "2025-11-29",
+    "bedTime": "22:50",
+    "wakeTime": "07:20",
+    "sleepHours": 8.5,
+    "sleepScore": 5,
+    "mood": 5,
+    "stress": 1,
+    "memo": "숙면!"
+  },
+  {
+    "date": "2025-12-03",
+    "bedTime": "23:30",
+    "wakeTime": "06:40",
+    "sleepHours": 7.2,
+    "sleepScore": 4,
+    "mood": 4,
+    "stress": 2,
+    "memo": "요즘 수면 리듬이 점점 안정"
+  },
+  {
+    "date": "2025-12-07",
+    "bedTime": "00:20",
+    "wakeTime": "08:10",
+    "sleepHours": 7.8,
+    "sleepScore": 4,
+    "mood": 4,
+    "stress": 1,
+    "memo": "주말 아침이 여유로움"
+  }
+]
